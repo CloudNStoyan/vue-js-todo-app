@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    width: 100%;
+}
+
+body {
+    margin: 0;
+}
+
+#app-container {
+    width: 400px;
+    margin: 10px auto;
+}
+
+#todo-input {
+    width: 100%;
+    height: 25px;
+    margin-top: 5px;
+}
+
+.remove-btn {
+    float: right;
+    color: pink;
+    opacity: 0.5;
+    background-color: transparent;
+    border: 0;
+    cursor: pointer;
+}
